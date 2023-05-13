@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HappyBaby</string>
+    <string name="login_username">User Name</string>
+    <string name="login_request">PLEASE LOGIN</string>
+    <string name="login_password">Password</string>
+    <string name="app_login_button">LOGIN</string>
+
+</resources>
